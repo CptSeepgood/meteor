@@ -5,4 +5,9 @@ A Cloud Guru python project
 
 This project requires Python 3 and the requests package.
 
-'python meteors.py'
+First, install pipenv. Thenn:
+
+'''
+pipenv install
+pipenv run "python meteros.py"
+'''
